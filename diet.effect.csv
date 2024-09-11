@@ -1,0 +1,17 @@
+Sample,Date,Population,gen,Food,Males,Females,c1,c2
+A3,26-Feb,BUF Yeast,parental,Yeast,9,11,3.51E+02,2.65E+02
+A4,26-Feb,BUF Yeast,parental,Yeast,10,10,1.66E+02,1.52E+02
+A13,5-Mar,BUF Yeast,parental,Yeast,10,10,4.67E+02,3.54E+02
+A14,5-Mar,BUF Yeast,parental,Yeast,10,10,5.28E+02,3.69E+02
+A34,16-Jun,BUF Yeast,parental,Yeast,10,10,3.97E+02,5.25E+02
+A35,16-Jun,BUF Yeast,parental,Yeast,10,10,3.91E+02,5.20E+02
+A40,18-Jun,BUFSD19 Yeast,hybrid,Yeast,10,10,4.55E+02,8.65E+02
+A41,18-Jun,BUFSD19 Yeast,hybrid,Yeast,10,10,5.05E+02,8.06E+02
+A42,18-Jun,BUFSD19 Yeast,hybrid,Yeast,10,10,4.31E+02,9.47E+02
+A53,24-Jun,BUF Yeast,parental,Yeast,20,0,2.98E+02,4.40E+02
+A54,24-Jun,BUFSD19 Yeast,hybrid,Yeast,20,0,4.49E+02,9.18E+02
+A55,24-Jun,BUFSD19 Yeast,hybrid,Yeast,20,0,5.09E+02,7.10E+02
+A73,8-Jul,BUF Tetra.,parental,1wkt,10,10,4.69E+02,9.17E+02
+A74,8-Jul,BUF Tetra.,parental,1wkt,3,17,5.95E+02,9.62E+02
+A75,8-Jul,BUFSD19 Tetra.,hybrid,1wkt,10,10,6.69E+02,1.13E+03
+A76,8-Jul,BUFSD19 Tetra.,hybrid,1wkt,10,10,8.14E+02,1.53E+03

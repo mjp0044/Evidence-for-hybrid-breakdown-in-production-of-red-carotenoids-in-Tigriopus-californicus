@@ -1,0 +1,9 @@
+ril.id,sex,emmean,SE,df,lower.CL,upper.CL,gen
+AB,Males,2.22,1.93,13,1.21,3.23,Parental
+PESAB20,Males,3.49,0.444,13,2.57,4.41,Hybrid
+PES,Males,4.13,0.486,13,3.12,5.14,Parental
+PESAB20,Females,9.01,0.444,21,8.08,9.93,Hybrid
+PES,Females,6.63,0.543,21,5.5,7.76,Parental
+ABCAT11,Males,13.07,3.05,9,6.18,19.96,Hybrid
+CATAB27,Males,5.05,3.05,9,-1.85,11.94,Hybrid
+CAT,Males,2.7,2.15,9,-2.17,7.57,Parental
